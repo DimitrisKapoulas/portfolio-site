@@ -155,17 +155,17 @@ module.exports = {
   socialLinks: [{
       icon: 'fa-github',
       name: 'Github',
-      url: `https: //github.com/${GITHUB_USERNAME}`,
+      url: `https://github.com/${GITHUB_USERNAME}`,
     },
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
-      url: `https: //linkedin.com/in/${LINKEDIN_USERNAME}`,
+      url: `https://linkedin.com/in/${LINKEDIN_USERNAME}`,
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: `https: //twitter.com/${TWITTER_USERNAME}`,
+      url: `https://twitter.com/${TWITTER_USERNAME}`,
     },
   ],
   email: EMAIL,
