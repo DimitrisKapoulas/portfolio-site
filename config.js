@@ -158,8 +158,7 @@ module.exports = {
   socialLinks: [{
       icon: 'fa-github',
       name: 'Github',
-      url: `
-      https: //github.com/${GITHUB_USERNAME}`,
+      url: `https: //github.com/${GITHUB_USERNAME}`,
     },
     {
       icon: 'fa-linkedin-in',
