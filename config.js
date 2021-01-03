@@ -134,7 +134,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/cto-ai.jpg',
-  pathPrefix: ``,
+  pathPrefix: '',
   firstName: FIRST_NAME,
   lastName: LAST_NAME,
   // bio
