@@ -134,10 +134,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/cto-ai.jpg',
-  //  pathPrefix: ` / $ {
-  //       REPOSITORY
-  //     }
-  //      `, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   firstName: FIRST_NAME,
   lastName: LAST_NAME,
   // bio
